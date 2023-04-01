@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    border: 0cap;
+}
+h3{
+    align-items:flex-end;
+}
+
+table {
+    border: 1px solid grey;
+}
+
+th,td{
+    border: 1px solid grey;
+}
+
+.block1 img{
+width: 30px;
+height: 30px;
+}
+.block2 img{
+    width: 30px;
+    height: 30px;
+}
+.block3 img{
+    width: 30px;
+    height: 30px;
+}
+.block4 img{
+    width: 30px;
+    height: 30px;
+}
